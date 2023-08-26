@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-shintiaazzahra/shintiaazzahra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shintiaazzahra/shintiaazzahra is a ✨ special ✨ repository because its `.github.io` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
